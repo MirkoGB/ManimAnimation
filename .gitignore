@@ -1,4 +1,9 @@
 .venv/
-media/
 __pycache__/
 *.pyc
+
+# Manim: si versionano solo i video finali, non le cache e gli spezzoni intermedi
+media/Tex/
+media/texts/
+media/images/
+media/videos/**/partial_movie_files/
