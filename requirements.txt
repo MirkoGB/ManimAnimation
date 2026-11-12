@@ -1,0 +1,4 @@
+manim==0.22.1
+# PyAV 17.1.0: le versioni più recenti (18.x, 19.x) vengono bloccate da
+# Smart App Control di Windows 11 ("criterio di controllo dell'applicazione").
+av==17.1.0
